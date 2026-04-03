@@ -34,12 +34,12 @@ irm https://claude.ai/install.ps1 | iex
 
 **Mac / Linux:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/divolax/ai-skills-academy/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/divolax/ai-skills-academy/master/install.sh | bash
 ```
 
 **Windows (PowerShell):**
 ```powershell
-irm https://raw.githubusercontent.com/divolax/ai-skills-academy/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/divolax/ai-skills-academy/master/install.ps1 | iex
 ```
 
 ### Шаг 3. Начни
@@ -75,4 +75,5 @@ claude
 ---
 
 Built with by Dima | [Telegram](https://t.me/dima_aikit_bot)
+
 
